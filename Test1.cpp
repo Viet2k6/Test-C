@@ -131,7 +131,6 @@ int main(){
 			}
 			case 9: {
 				printf("Thoat chuong trinh\n");
-                return 0;
 				break;
 			}
 			default:
@@ -140,5 +139,5 @@ int main(){
 		}
 	
 	}while(choice!=9);
-return 0;
+        return 0;
 }
